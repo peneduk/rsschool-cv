@@ -30,3 +30,11 @@ Work Experience
 - Analyzing the market and competitors  - studying current trends, monitoring competitor's action to improve sales.
 - Reporting - providing progress reports, performance analysis and sales performance reports.
 ___
+
+Skills
+---
+**Programming:** HTML\CSS Base lvl
+**Communication:** negotiation, business correspondence, handling objections.
+**Project management:** planning, setting tasks, controlling implementation.
+**Soft skills:** responsibility, ability to work in team, willingness to learn and develop.
+___
