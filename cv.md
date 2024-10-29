@@ -14,3 +14,9 @@ Contact Information
 **E-mail:** peneduk92@gmail.com
 **Telegram:** @dimaexe
 ___
+
+Education
+--------
+**Odesa National Academy of Food Technologies** (2011 - 2016)
+- Commodity science and commercial activity (Maser's Diploma)
+- Commodity the organizer of trade (Bachelor's Diploma)
