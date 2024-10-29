@@ -20,3 +20,13 @@ Education
 **Odesa National Academy of Food Technologies** (2011 - 2016)
 - Commodity science and commercial activity (Maser's Diploma)
 - Commodity the organizer of trade (Bachelor's Diploma)
+___
+
+Work Experience
+---
+**Sante-Alko LTD** (2017 - 2024, Odessa Ukraine) 
+- Maintaining and developing client base - regular communication with current clients, analyzing their needs, building long-term relationships.
+- Preparing commercial proposals - creating and presenting products or services, taking into account client's needs.
+- Analyzing the market and competitors  - studying current trends, monitoring competitor's action to improve sales.
+- Reporting - providing progress reports, performance analysis and sales performance reports.
+___
