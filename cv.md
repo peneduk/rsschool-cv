@@ -38,3 +38,11 @@ Skills
 **Project management:** planning, setting tasks, controlling implementation.
 **Soft skills:** responsibility, ability to work in team, willingness to learn and develop.
 ___
+
+Languages
+---
+* English - B1
+* Polish - B1
+* Romanian - A2
+* Ukrainian - native
+* Russian - native
