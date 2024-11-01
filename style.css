@@ -1,0 +1,147 @@
+body {
+  background: black;
+}
+:root {
+  --font-family: "Raleway", sans-serif;
+  --second-family: "Josefin Sans", sans-serif;
+  --third-family: "Inter", sans-serif;
+}
+h1 {
+  font: 700 25px / 100% var(--second-family);
+  letter-spacing: -0.01em;
+  color: #000;
+}
+h2 {
+  font: 700 18px / 107% var(--second-family);
+  letter-spacing: -0.02em;
+  color: #000;
+}
+h3 {
+  font: 550 15px / 133% var(--second-family);
+  color: #000;
+  
+}
+p {
+  font: 400 14px / 164% var(--font-family);
+  letter-spacing: 0.01em;
+  color: #000;
+}
+a {
+  text-decoration: none;
+  letter-spacing: 0.01em;
+  font: 400 14px / 164% var(--font-family);
+}
+li {
+  font: 400 14px / 164% var(--font-family);
+  letter-spacing: 0.01em;
+  color: #000;
+}
+/* ===============HEADER=================== */
+.container {
+  background: white;
+  max-width: 800px;
+  height: 1620px;
+  margin: 60px auto;
+  padding: 60px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0);
+}
+.header {
+  text-align: center;
+}
+.name {
+  margin-bottom: 10px;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.speciality {
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 500;
+}
+.image__profile image {
+  width: 100px;
+  height: 100px;
+}
+/* =============MAIN====================== */
+
+/* ====Contact info==== */
+.contact__info {
+  box-sizing: inherit;
+  border-top: 1px solid #ddd;
+}
+.contact__info-subtitle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 20px;
+}
+.contact__info-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 10px;
+  gap: 10px;
+  align-items: center;
+}
+
+/* ===About info=== */
+.about__info-title {
+    margin-top: 30px;
+}
+.about__info-text {
+    margin: 20px;
+}
+
+/* ===Education info=== */
+.education__info-title {
+    margin-top: 30px;
+}
+.education__info .box {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.education__info .year {
+  min-width: 150px;
+}
+
+/* ===Experience info=== */
+.experience__info-title {
+    margin-top: 30px;
+}
+.experience__info .box {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.experience__info .year {
+  min-width: 150px;
+}
+
+/* ===Skills info=== */
+.skills__info-title {
+    margin-top: 30px;
+}
+.skills__info .box {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.skills__info .subtitle {
+  min-width: 150px;
+}
+.subtitle h3 {
+    margin: 18px 0;
+}
+
+/* ===Language info=== */
+.languages__title {
+    margin-top: 30px;
+}
+.languages__info .box {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
