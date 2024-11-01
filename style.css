@@ -17,8 +17,9 @@ h2 {
   color: #000;
 }
 h3 {
-  font: 700 16px / 133% var(--second-family);
+  font: 550 15px / 133% var(--second-family);
   color: #000;
+  
 }
 p {
   font: 400 14px / 164% var(--font-family);
@@ -85,11 +86,18 @@ img {
   align-items: center;
 }
 
+/* ===About info=== */
+.about__info-title {
+    margin-top: 30px;
+}
 .about__info-text {
     margin: 20px;
 }
 
 /* ===Education info=== */
+.education__info-title {
+    margin-top: 30px;
+}
 .education__info .box {
   display: flex;
   flex-direction: row;
@@ -100,6 +108,9 @@ img {
 }
 
 /* ===Experience info=== */
+.experience__info-title {
+    margin-top: 30px;
+}
 .experience__info .box {
   display: flex;
   flex-direction: row;
@@ -110,6 +121,9 @@ img {
 }
 
 /* ===Skills info=== */
+.skills__info-title {
+    margin-top: 30px;
+}
 .skills__info .box {
   display: flex;
   flex-direction: row;
@@ -118,8 +132,14 @@ img {
 .skills__info .subtitle {
   min-width: 150px;
 }
+.subtitle h3 {
+    margin: 18px 0;
+}
 
 /* ===Language info=== */
+.languages__title {
+    margin-top: 30px;
+}
 .languages__info .box {
     display: flex;
     flex-direction: row;
