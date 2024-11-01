@@ -1,0 +1,57 @@
+body {
+  background: black;
+}
+:root {
+  --font-family: "Raleway", sans-serif;
+  --second-family: "Josefin Sans", sans-serif;
+  --third-family: "Inter", sans-serif;
+}
+h1 a {
+  font: 400 14px / 164% var(--font-family);
+  text-decoration: none;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+h2 {
+  font: 700 18px / 107% var(--second-family);
+  letter-spacing: -0.02em;
+  color: #000;
+}
+h3 {
+  font: 700 16px / 133% var(--second-family);
+  color: #000;
+}
+p {
+  font: 400 14px / 164% var(--font-family);
+  letter-spacing: 0.01em;
+  color: #000;
+}
+li {
+  font: 400 14px / 164% var(--font-family);
+  letter-spacing: 0.01em;
+  color: #000;
+}
+/* ===============HEADER=================== */
+.container {
+    background: white;
+    max-width: 800px;
+    height: 1620px;
+    margin: 60px auto;
+    padding: 60px;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0);
+}
+.header {
+ text-align: center;
+}
+.name {
+    margin-bottom: 10px;
+}
+.speciality {
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+}
+.image__profile image {
+    width: 100px;
+    height: 100px;
+}
