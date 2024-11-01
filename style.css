@@ -80,3 +80,13 @@ li {
   gap: 10px;
   align-items: center;
 }
+
+/* ===Education info=== */
+.education__info .box {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.education__info .year {
+    min-width: 150px;
+}
