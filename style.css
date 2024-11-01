@@ -50,6 +50,10 @@ li {
 .name {
   margin-bottom: 10px;
 }
+img {
+    width: 200px;
+    height: 200px;
+}
 .speciality {
   text-transform: uppercase;
   font-size: 15px;
@@ -81,6 +85,10 @@ li {
   align-items: center;
 }
 
+.about__info-text {
+    margin: 20px;
+}
+
 /* ===Education info=== */
 .education__info .box {
   display: flex;
@@ -109,4 +117,11 @@ li {
 }
 .skills__info .subtitle {
   min-width: 150px;
+}
+
+/* ===Language info=== */
+.languages__info .box {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
 }
